@@ -1,4 +1,4 @@
-- Hi! This is Shawn! Kaohsiung City,Tainan City Taiwan!
+- Hi! This is Shawn! 
 - I’m currently learning Computer Science and some hacking stuff!
 
 <!---
