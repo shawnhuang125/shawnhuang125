@@ -1,5 +1,7 @@
 # Hi, I'm Shawn Huang (黃律嘉) 👋
 
+🔗 [點此查看我的網頁版個人作品集](https://shawnhuang125.github.io)
+
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square" alt="Data Engineering">
   <img src="https://img.shields.io/badge/Network%20Programming-orange?style=flat-square" alt="Network Programming">
