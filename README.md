@@ -1,4 +1,4 @@
-# Hi, I'm Shawn Huang (黃律嘉) 👋
+# Hi, I'm Shawn Huang
 
 🔗 [點此查看我的網頁版個人作品集](https://shawnhuang125.github.io)
 
