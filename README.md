@@ -24,13 +24,6 @@
 
 ---
 
-## Certifications
-
-* **IPAS** 資訊安全工程師 - 初級 (2024-11)
-* **TQC-OS** Linux 系統管理 - 專業級 (2024-11)
-
----
-
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-s0909799081%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:s0909799081@gmail.com)
