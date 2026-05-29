@@ -1,7 +1,7 @@
 # Hi, I'm Shawn Huang
 
 <p align="left">
-  <a href="https://shawnhuang125.github.io"><img src="https://img.shields.io/badge/🔍%20Live%20Portfolio-👉%20點此查看網頁版作品集-🚀%20%23FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shawnhuang125.github.io)
 </p>
 
 <p align="left">
