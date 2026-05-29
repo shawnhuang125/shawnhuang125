@@ -1,15 +1,8 @@
 # Hi, I'm Shawn Huang
 
-<p align="left">
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://shawnhuang125.github.io)
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://shawnhuang125.github.io)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Network%20Programming-orange?style=flat-square" alt="Network Programming">
-  <img src="https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square" alt="Data Engineering">
-  <img src="https://img.shields.io/badge/Database%20Optimization-green?style=flat-square" alt="Database Design">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-purple?style=flat-square" alt="Full-Stack">
-</p>
+![Network Programming](https://img.shields.io/badge/Network%20Programming-orange?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square) ![Database Optimization](https://img.shields.io/badge/Database%20Optimization-green?style=flat-square) ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-purple?style=flat-square)
 
 > **Data Engineer | Network Systems Developer | Full-Stack Engineer**
 > 
@@ -49,7 +42,5 @@
 
 ## 📫 Contact Me
 
-<p align="left">
-  <a href="mailto:s0909799081@gmail.com"><img src="https://img.shields.io/badge/Email-s0909799081%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/luchia-huang-a9ba88381/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Shawn%20Huang-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-s0909799081%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:s0909799081@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shawn%20Huang-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luchia-huang-a9ba88381/)
