@@ -1,7 +1,7 @@
 # Hi, I'm Shawn Huang
 
 <p align="left">
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shawnhuang125.github.io)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://shawnhuang125.github.io)
 </p>
 
 <p align="left">
