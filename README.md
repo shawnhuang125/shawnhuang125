@@ -31,15 +31,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=shawnhuang125&show_icons=true&theme=transparent&rank_icon=github" alt="Shawn's GitHub Stats" height="150px" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=shawnhuang125&layout=compact&theme=transparent" alt="Top Langs" height="150px" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-s0909799081%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:s0909799081@gmail.com)
