@@ -1,4 +1,4 @@
-# Hi, I'm Shawn Huang (黃律嘉) 👋
+# Hi, I'm Shawn Huang
 
 <p align="left">
   <a href="https://shawnhuang125.github.io"><img src="https://img.shields.io/badge/🔍%20Live%20Portfolio-👉%20點此查看網頁版作品集-🚀%20%23FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -17,7 +17,7 @@
 
 ---
 
-## 📂 Featured Projects (快速連結)
+## Featured Projects (快速連結)
 
 | 專案名稱 | 核心技術技術棧 | 一句話簡介 | 原始碼 |
 | :--- | :--- | :--- | :--- |
@@ -27,18 +27,18 @@
 | **Custom DBMS Console** | `FastAPI` `AJAX` `MySQL` | 多資料庫整合管理介面，同步操作維護 MySQL 與 Qdrant。 | [💻 Code](https://github.com/shawnhuang125/map-api-application) |
 | **IoT Door Monitor** | `C` `ESP32` `Flask` | ESP32 門磁硬體監測系統，整合 Telegram 警報通知。 | [💻 Code](https://github.com/shawnhuang125/Magnetic_Door_Monitoring_System) |
 
-*💡 更多詳細的專案實作成果與經歷，歡迎至 [網頁版個人作品集](https://shawnhuang125.github.io) 深入查看。*
+*更多詳細的專案實作成果與經歷，歡迎至 [網頁版個人作品集](https://shawnhuang125.github.io) 深入查看。*
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 * **IPAS** 資訊安全工程師 - 初級 (2024-11)
 * **TQC-OS** Linux 系統管理 - 專業級 (2024-11)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=shawnhuang125&show_icons=true&theme=transparent&rank_icon=github" alt="Shawn's GitHub Stats" height="150px" />
