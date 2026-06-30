@@ -12,15 +12,15 @@
 
 ## Featured Projects (快速連結)
 
-| 專案名稱 | 核心技術技術棧 | 一句話簡介 | 原始碼 |
+| Project Name | Tech Stack | Introduction | link |
 | :--- | :--- | :--- | :--- |
-| **HROUTE** | `C` `Linux` `Networking` | 獨立開發的輕量化 Linux 路由框架，實作 DHCP 引擎與 NAT 轉發。 | [Code](https://github.com/shawnhuang125/router) |
-| **Search API for AI RAG** | `Python` `FastAPI` `Qdrant` | 混合檢索後端，高效整合 SQL 預篩選與 Vector 語義搜尋。 | [Code](https://github.com/shawnhuang125/Search_API) |
-| **VANTAGE Terminal** | `FastAPI` `Async Scraper` | 即時金融監測終端，採用 100vh 雙軌滾動佈局。 | [Code](https://github.com/shawnhuang125/vantage) |
-| **Custom DBMS Console** | `FastAPI` `AJAX` `MySQL` | 多資料庫整合管理介面，同步操作維護 MySQL 與 Qdrant。 | [Code](https://github.com/shawnhuang125/map-api-application) |
-| **IoT Door Monitor** | `C` `ESP32` `Flask` | ESP32 門磁硬體監測系統，整合 Telegram 警報通知。 | [Code](https://github.com/shawnhuang125/Magnetic_Door_Monitoring_System) |
+| **HROUTE** | `C` `Linux` `Networking` | Pure DHCP-Server package | [Code](https://github.com/shawnhuang125/router) |
+| **Search API for AI RAG** | `Python` `FastAPI` `Qdrant` | Developed a custom algorithm for multi-criteria sorting to optimize the RAG service. | [Code](https://github.com/shawnhuang125/Search_API) |
+| **Custom DBMS Console** | `FastAPI` `AJAX` `MySQL` | Multi-database management interface for synchronized operations and maintenance across MySQL and Qdrant. | [Code](https://github.com/shawnhuang125/map-api-application) |
+| **IoT Door Monitor** | `C` `ESP32` `Flask` | ESP32-based door monitoring system with integrated Telegram alerts. | [Code](https://github.com/shawnhuang125/Magnetic_Door_Monitoring_System) |
+| **Media downloader**|`Python` `Gui Application` `ffmpeg` `ytdlp`|A Python GUI application designed for video and audio downloading, powered by yt-dlp and FFmpeg.| [Releases](https://github.com/shawnhuang125/Comma/releases)|
 
-*更多詳細的專案實作成果與經歷，歡迎至 [網頁版個人作品集](https://shawnhuang125.github.io) 深入查看。*
+For more details on my project implementations and experience, feel free to visit my [Online Portfolio](https://shawnhuang125.github.io/).
 
 ---
 
