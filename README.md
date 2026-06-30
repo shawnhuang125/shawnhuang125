@@ -6,7 +6,8 @@
 
 > **Data Engineer | Network Systems Developer | Full-Stack Engineer**
 
-`Low-Level Networking` `AI & Search Architecture` `Data Engineering` `Infrastructure & DevOps` `IoT & Hardware DIY` `Application Development`
+`Low-Level Networking` `AI & Search Architecture` `Data Engineering` 
+`Infrastructure & DevOps` `IoT & Hardware DIY` `Application Development`
 
 ---
 
