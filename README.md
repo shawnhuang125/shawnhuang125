@@ -6,7 +6,7 @@
 
 ---
 
-## Featured Projects (快速連結)
+## Featured Projects 
 
 | Project Name | Tech Stack | Introduction | link |
 | :--- | :--- | :--- | :--- |
