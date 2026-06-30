@@ -6,7 +6,12 @@
 
 > **Data Engineer | Network Systems Developer | Full-Stack Engineer**
 > 
-> 專注於 **Linux 低階網路系統開發**（如獨立實作 DHCP 伺服器模組）與資料領域的 **Hybrid Search 混合檢索架構**。擅長從底層基礎設施（推論工作站與網路佈署）到上層自動化資料管線（ETL/向量資料庫優化）的完整整合。
+> [Low-Level Networking] Developed a custom Linux DHCP server module from scratch in C, optimizing raw socket communications.
+> [AI & Search Architecture] Designed a Hybrid Search system with vector-first data storage, leveraging Qdrant payload filtering for maximum precision.
+> [Data Engineering] Formulated end-to-end automated ETL pipelines, manually managing data labeling and validation for 1,000+ entries.
+> [Infrastructure & DevOps] Managed dual-GPU AI inference workstations and handled containerized deployment using Docker.
+> [IoT & Hardware DIY] Engineered an ESP32-based door monitoring system with automated Telegram alert integration and custom PCB design.
+> [Application Development] Built a standalone video/audio downloader using Python GUI, wrapping yt-dlp and FFmpeg core utilities.
 
 ---
 
