@@ -5,13 +5,18 @@
 ![Network Programming](https://img.shields.io/badge/Network%20Programming-orange?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square) ![Database Optimization](https://img.shields.io/badge/Database%20Optimization-green?style=flat-square) ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-purple?style=flat-square)
 
 > **Data Engineer | Network Systems Developer | Full-Stack Engineer**
-> 
+
 > [Low-Level Networking] Developed a custom Linux DHCP server module from scratch in C, optimizing raw socket communications.
+
 > [AI & Search Architecture] Designed a Hybrid Search system with vector-first data storage, leveraging Qdrant payload filtering for maximum precision.
+
 > [Data Engineering] Formulated end-to-end automated ETL pipelines, manually managing data labeling and validation for 1,000+ entries.
+
 > [Infrastructure & DevOps] Managed dual-GPU AI inference workstations and handled containerized deployment using Docker.
+
 > [IoT & Hardware DIY] Engineered an ESP32-based door monitoring system with automated Telegram alert integration and custom PCB design.
-> [Application Development] Built a standalone video/audio downloader using Python GUI, wrapping yt-dlp and FFmpeg core utilities.
+
+>  [Application Development] Built a standalone video/audio downloader using Python GUI, wrapping yt-dlp and FFmpeg core utilities.
 
 ---
 
