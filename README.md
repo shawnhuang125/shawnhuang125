@@ -1,7 +1,6 @@
-# Hi, I'm Shawn Huang
+# Hi, I'm Shawn Huang | [![Portfolio](https://img.shields.io/badge/Portfolio-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://shawnhuang125.github.io)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://shawnhuang125.github.io)
-
+Focus on:
 ![Low-Level Networking](https://img.shields.io/badge/Low--Level%20Networking-orange?style=flat-square) ![AI & Search Architecture](https://img.shields.io/badge/AI%20%26%20Search%20Architecture-red?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square) ![Infrastructure & DevOps](https://img.shields.io/badge/Infrastructure%20%26%20DevOps-green?style=flat-square) ![IoT & Hardware DIY](https://img.shields.io/badge/IoT%20%26%20Hardware%20DIY-yellow?style=flat-square) ![Application Development](https://img.shields.io/badge/Application%20Development-purple?style=flat-square)
 
 
